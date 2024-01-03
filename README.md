@@ -1,4 +1,4 @@
-# (Tutorial Project) Web3 project on LW3 to read and strore data from the sepolia testnet
+# (Tutorial Project) Web3 project on LW3 to read and store data from the sepolia testnet
 
 ## Setting Up
 
